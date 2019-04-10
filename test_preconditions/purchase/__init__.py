@@ -1,0 +1,1 @@
+from test_preconditions.purchase import user_purchases

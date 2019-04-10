@@ -1,0 +1,7 @@
+from test_preconditions import certificate
+from test_preconditions import content_list_generation
+from test_preconditions import purchase
+from test_preconditions import user_creation
+from test_preconditions import pusher
+from test_preconditions import exceptions
+from test_preconditions import mailcatcher
